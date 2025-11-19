@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="patrick-star-stupid-computer.gif"  />
+  <img height="150" src="spongebob-patrick-star2.gif"  />
 </div>
 
 ###
